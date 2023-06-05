@@ -1,0 +1,23 @@
+Course Type: University Course
+Course ID: CSCI101
+Course Name: Introduction to Computer Science
+Day: Mon Wed Fri
+Start Time: 10:00
+Duration: 1 hours, 30 minutes
+Requires Projector: Yes
+Students: 1001 1002 1003 1004
+Teacher: John Doe
+Capacity: 50
+Location: 123
+
+Course Type: Scientific Course
+Course ID: PHYS202
+Course Name: Physics Lab
+Day: Tue Thu
+Start Time: 13:30
+Duration: 2 hours
+Requires Projector: No
+Students: 2001 2002 2003
+Teacher: Jane Smith
+Capacity: 30
+Location: 321
